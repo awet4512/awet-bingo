@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69468168760",
+    "project_id": "awet-bingo",
+    "storage_bucket": "awet-bingo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69468168760:android:4f7b8d82fa7f438c797ccd",
+        "android_client_info": {
+          "package_name": "com.awet.bingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQtmGqq2Uhl0j4kxGKTtyoWeuQMaBXsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
